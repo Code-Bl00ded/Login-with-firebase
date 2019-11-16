@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Login 1.0</string>
+    <string name="create_new_user">Create New User</string>
+    <string name="already_registerd_login_here">Already Registerd ? Login Here</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="registraion_panel">Registraion Panel</string>
+    <string name="submit">Submit</string>
+    <string name="e_mail">E-mail</string>
+    <string name="full_name">Full Name</string>
+    <string name="new_here_create_account">New Here ? Create Account</string>
+    <string name="login">Login</string>
+    <string name="login_panel">Login Panel</string>
+    <string name="e_mail_">E-mail</string>
+    <string name="password_">Password</string>
+    <string name="skip">SKIP</string>
+    <string name="upload_profile_pic">Upload Profile Pic</string>
+    <string name="upload">UPLOAD</string>
+    <string name="todo">TODO</string>
+    <string name="choose_file">choose file</string>
+    <string name="todo_">TODO</string>
+    <string name="success">Success</string>
+    <string name="nwe_user_create_account">Nwe user? Create Account</string>
+    <string name="todo__">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
